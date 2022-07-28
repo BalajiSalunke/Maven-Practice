@@ -24,7 +24,7 @@ public class AssertionMethods {
 	}
 
 	@Test
-	public void verifyTitle(expectedExceptions = ElementNotFoundException) {
+	public void verifyTitle() {
 		
 	//Hard Assert
 		
